@@ -1,0 +1,31 @@
+Rules:
+
+This is a 60 seconds two player shooting game. There are two levels and the level changes after 30 seconds.
+The change of level determines increase in difficulty level.
+
+Shooting each object gives you 1 point.
+
+Controls:
+
+Player 1(left): 
+Move up : W
+Mve down: S
+angle up : A
+angle down : D
+Increase in speed: press and hold SPACE
+Shoot : Release SPACE
+
+
+Player 2(right):
+Move up: UP arrow key
+Move Down: DOWN arrow key
+angle up and angle donw controlled by mouse movement
+Increase speed : Hold left mouse button
+Shoot : Release Left mouse button
+
+General:
+Zoom in : z
+Zoom out : x
+
+
+
